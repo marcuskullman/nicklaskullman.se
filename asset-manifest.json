@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nicklaskullman.se/static/css/main.e8a2e737.css",
+    "main.js": "/nicklaskullman.se/static/js/main.9d12783e.js",
+    "index.html": "/nicklaskullman.se/index.html",
+    "main.e8a2e737.css.map": "/nicklaskullman.se/static/css/main.e8a2e737.css.map",
+    "main.9d12783e.js.map": "/nicklaskullman.se/static/js/main.9d12783e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a2e737.css",
+    "static/js/main.9d12783e.js"
+  ]
+}
