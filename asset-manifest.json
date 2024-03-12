@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.79bcaf0b.css",
+    "main.css": "/static/css/main.628ce42c.css",
     "main.js": "/static/js/main.fc2d5032.js",
     "static/media/ABCMonumentGroteskSemi-Mono-Regular.woff": "/static/media/ABCMonumentGroteskSemi-Mono-Regular.e9adeb487b52fc6f99bf.woff",
     "static/media/ABCMonumentGroteskSemi-Mono-Regular.woff2": "/static/media/ABCMonumentGroteskSemi-Mono-Regular.7e3d5cd60c9cf7f04fea.woff2",
     "index.html": "/index.html",
-    "main.79bcaf0b.css.map": "/static/css/main.79bcaf0b.css.map",
+    "main.628ce42c.css.map": "/static/css/main.628ce42c.css.map",
     "main.fc2d5032.js.map": "/static/js/main.fc2d5032.js.map"
   },
   "entrypoints": [
-    "static/css/main.79bcaf0b.css",
+    "static/css/main.628ce42c.css",
     "static/js/main.fc2d5032.js"
   ]
 }
