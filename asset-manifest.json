@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nicklaskullman.se/static/css/main.c219d349.css",
-    "main.js": "/nicklaskullman.se/static/js/main.fc2d5032.js",
-    "static/media/ABCMonumentGroteskSemi-Mono-Regular.woff": "/nicklaskullman.se/static/media/ABCMonumentGroteskSemi-Mono-Regular.e9adeb487b52fc6f99bf.woff",
-    "static/media/ABCMonumentGroteskSemi-Mono-Regular.woff2": "/nicklaskullman.se/static/media/ABCMonumentGroteskSemi-Mono-Regular.7e3d5cd60c9cf7f04fea.woff2",
-    "index.html": "/nicklaskullman.se/index.html",
-    "main.c219d349.css.map": "/nicklaskullman.se/static/css/main.c219d349.css.map",
-    "main.fc2d5032.js.map": "/nicklaskullman.se/static/js/main.fc2d5032.js.map"
+    "main.css": "/static/css/main.79bcaf0b.css",
+    "main.js": "/static/js/main.fc2d5032.js",
+    "static/media/ABCMonumentGroteskSemi-Mono-Regular.woff": "/static/media/ABCMonumentGroteskSemi-Mono-Regular.e9adeb487b52fc6f99bf.woff",
+    "static/media/ABCMonumentGroteskSemi-Mono-Regular.woff2": "/static/media/ABCMonumentGroteskSemi-Mono-Regular.7e3d5cd60c9cf7f04fea.woff2",
+    "index.html": "/index.html",
+    "main.79bcaf0b.css.map": "/static/css/main.79bcaf0b.css.map",
+    "main.fc2d5032.js.map": "/static/js/main.fc2d5032.js.map"
   },
   "entrypoints": [
-    "static/css/main.c219d349.css",
+    "static/css/main.79bcaf0b.css",
     "static/js/main.fc2d5032.js"
   ]
 }
